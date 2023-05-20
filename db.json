@@ -1,0 +1,299 @@
+{
+
+    "Camera": [
+     {
+        "id": 1,
+        "title": "KODAK Mini Shot 2 Retro 4PASS 2-in-1 Instant Camera and Photo Printer (2.1x3.4 inches) + 68 Sheets Bundle, Yellow",
+        "price": 10496,
+        "description": "Instant Camera + Photo Printer: The Kodak Mini Shot 2 Retro is a polaroid camera with a built-in photo printer, so you can print your images or cancel them after you have taken them. With this instant cameras, you can also print photos directly from the gallery of your mobile device via Bluetooth. This instant photo camera is compatible with Apple iPhone, iPad & Android devices.",
+        "category": "electronics",
+        "image": "https://m.media-amazon.com/images/I/81OVXsUbn-L._SY450_.jpg",
+        "rating": {
+          "rate": 4,
+          "count": 250
+        }
+      },
+      {
+        "id": 2,
+        "title": "KODAK Mini Shot 3 Retro 4PASS 2-in-1 Instant Camera and Photo Printer (3x3 inches) + 8 Sheets, White ",
+        "price": 12990,
+        "description": "Instant Camera + Photo Printer: The Kodak Mini Shot 3 Retro is a polaroid camera with a built-in photo printer, so you can print your images or cancel them after you have taken them. With this instant cameras, you can also print photos directly from the gallery of your mobile device via Bluetooth. This instant photo camera is compatible with Apple iPhone, iPad & Android devices",
+        "category": "electronics",
+        "image": "https://m.media-amazon.com/images/I/71XpGuLud1L._SY450_.jpg",
+        "rating": {
+          "rate": 2.2,
+          "count": 140
+        }
+      },
+    {
+        "id": 3,
+        "title": "Canon EOS 1500D 24.1 Digital SLR Camera (Black) with EF S18-55 is II Lens ",
+        "price": 33990,
+        "description": "Sensor: APS-C CMOS Sensor with 24.1 MP (high resolution for large prints and image cropping). Transmission frequency (central frequency):Frequency: 2 412 to 2 462MHz. Standard diopter :-2.5 - +0.5m-1 (dpt);ISO: 100-6400 sensitivity range (critical for obtaining grain-free pictures, especially in low light)",
+        "category": "electronics",
+        "image": "https://m.media-amazon.com/images/I/51UHoxzInpL._SY300_SX300_QL70_FMwebp_.jpg",
+        "rating": {
+          "rate": 2.2,
+          "count": 140
+        }
+      },
+    {
+        "id": 4,
+        "title": "Fujifilm Instax Mini 9 Instant Camera (Ice Blue) ",
+        "price": 4990,
+        "description": "New Selfie Mirror and close-up lense attachment for perfect selfies; Produces instant credit card size photos ; Focusing: 0.6m - ∞ ; Auto power off time: 5 min ; Power Supply: Two AA-size 1.5V alkaline batteries Capacity: 100 shots(Approximately 10 instax mini film packs with new AA batteries) ; Film Feeding out: Automatic",
+        "category": "electronics",
+        "image": "https://m.media-amazon.com/images/I/817aVWYpblL._SX466_.jpg",
+        "rating": {
+          "rate": 2.2,
+          "count": 140
+        }
+      },
+    {
+        "id": 5,
+        "title": "Nikon D7500 20.9MP Digital SLR Camera (Black) with AF-S DX NIKKOR 18-140mm f/3.5-5.6G ED VR Lens ",
+        "price": 93990,
+        "description": "ULTRA HD VIDEO RESOLUTION: Shoot crystal-clear 4K/30FPS, 2.7K/30FPS, 1080P/60FPS, and 720P/120FPS videos with our 4K Action Camera. Perfect for vlogging, sports, and travel videos. WIDE ANGLE LENS: With a 170° super-wide-angle lens, capture more of your surroundings in every shot. Ideal for outdoor adventures, sports activities, and scenic shots. WIFI & APP COMPATIBLE: Connect to WiFi and download the GoPlus Cam Pro App to control your camera remotely, preview your shots, and share your footage instantly. Perfect for uploading to YouTube and other social media platforms.",
+        "category": "electronics",
+        "image": "https://m.media-amazon.com/images/I/613pf1JTs9L._SY450_.jpg",
+        "rating": {
+          "rate": 2.2,
+          "count": 140
+        }
+      },
+    {
+        "id": 6,
+        "title": "BLACKPOOL® 16MP 4K HD Digital Action Camera Supports HDMI & Wi-Fi Camera for Photography Wide Angle Display Vlogging Camera Waterproof up to 30m WiFi Sports Camera ",
+        "price": 2990,
+        "description": "ULTRA HD VIDEO RESOLUTION: Shoot crystal-clear 4K/30FPS, 2.7K/30FPS, 1080P/60FPS, and 720P/120FPS videos with our 4K Action Camera. Perfect for vlogging, sports, and travel videos. WIDE ANGLE LENS: With a 170° super-wide-angle lens, capture more of your surroundings in every shot. Ideal for outdoor adventures, sports activities, and scenic shots. WIFI & APP COMPATIBLE: Connect to WiFi and download the GoPlus Cam Pro App to control your camera remotely, preview your shots, and share your footage instantly. Perfect for uploading to YouTube and other social media platforms.",
+        "category": "electronics",
+        "image": "https://m.media-amazon.com/images/I/41zG3lqcEvL._SY450_.jpg",
+        "rating": {
+          "rate": 2.2,
+          "count": 140
+        }
+      },
+    {
+        "id": 7,
+        "title": "KODAK PIXPRO Friendly Zoom FZ45-BK 16MP Digital Camera with 4X Optical Zoom 27mm Wide Angle and 2.7 LCD Screen (Black) ",
+        "price": 14990,
+        "description": "4x Optical Zoom 16MP CMOS Sensor 1080p Full HD Video 27mm Wide Angle Lens 2.7 LCD",
+        "category": "electronics",
+        "image": "https://m.media-amazon.com/images/I/818GKPv0fvL._SY450_.jpg",
+        "rating": {
+          "rate": 2.2,
+          "count": 140
+        }
+      },
+    {
+        "id": 8,
+        "title": "Canon EOS 200D II 24.1MP Digital SLR Camera + EF-S 18-55mm f4 is STM Lens (Black) ",
+        "price": 58990,
+        "description": "12 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+        "category": "electronics",
+        "image": "https://m.media-amazon.com/images/I/41J1kYfM6PL._SY450_.jpg",
+        "rating": {
+          "rate": 2.2,
+          "count": 140
+        }
+      },
+    {
+        "id": 9,
+        "title": "BLESSBE BB65, Kids Digital Front and Rear Selfie Dual Camera with 3.5 Screen Child Real Camera for Childrens Cute Digital Camcorder Video Recorder (Skyble) ",
+        "price": 990,
+        "description": "Our updated digital kids camera comes with more functions, photo capture, video recording, continuous shooting, playback, countdown photo, sticker photo, recording etc. The photo and video mode also have various scene selections and cute photo frame. Our kids recording camera max support 32GB micro SD card (Card is NOT included). It includes 5 puzzle games which also make this camera more interesting for your kid.",
+        "category": "electronics",
+        "image": "https://m.media-amazon.com/images/I/41qHT-a+B3L._SX450_.jpg",
+        "rating": {
+          "rate": 2.2,
+          "count": 140
+        }
+      },
+    {
+        "id": 10,
+        "title": "Fujifilm Instax Mini 90 Neo Classic Instant Film Camera (Brown) ",
+        "price": 9990,
+        "description": "High performance flash to optimize the exposure and Bulb exposure mode enables photo capture that shows attractive night views and light streaks Various shooting modes including party mode, kids mode, landscape mode and macro mode to expand photo possibilities Film size : 86mm x 54mm and Picture size : 62mm x 46mm",
+        "category": "electronics",
+        "image": "https://m.media-amazon.com/images/I/71U20AsvhNL._SX466_.jpg",
+        "rating": {
+          "rate": 2.2,
+          "count": 140
+        }
+      },
+    {
+        "id": 11,
+        "title": "Manycast® 4K Vlogging Camera with 16.0 MP Image, 4K @ 30 FPS Video, Support 32 G TF Card, 170 Degree Angle, Support Wi-Fi ",
+        "price": 2990,
+        "description": "16 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+        "category": "electronics",
+        "image": "https://m.media-amazon.com/images/I/61VwXeITFjL._SX450_.jpg",
+        "rating": {
+          "rate": 2.2,
+          "count": 140
+        }
+      },
+    {
+        "id": 12,
+        "title": "GiftMax® Photography LED Camera Light Remote Control for Live Stream Video Photo Lamp with Tripod (Panel Light + 6 Feet Stand) ",
+        "price": 39990,
+        "description": "Light Color : White ,Soft White, Warm Light  Remote Controller: It Comes With A Remote Controller For The Light, So You Can Adjust The Lighting Effect Conveniently And Easily Model: Live Flat Panel Fill Light Photography Light INSIDE BOX:- 1 PANEL LIGHT, 1 - HOTSHOE MOUNT, 1 - REMOTE, 1 - STAND 6 FEET, 1 - STAND BAG",
+    
+        "category": "electronics",
+        "image": "https://m.media-amazon.com/images/I/51SEHPPbP4L._SX425_.jpg",
+        "rating": {
+          "rate": 2.2,
+          "count": 140
+        }
+      }
+    ],
+
+
+"Laptop": [
+ {
+    "id": 1,
+    "title": "HP 14s, 11th Gen Intel Core i3-1115G4, 8GB RAM/256GB SSD 14-inch(35.6 cm) Micro-Edge, Anti-Glare, FHD Laptop/Alexa Built-in/Win 11/Intel UHD Graphics/Dual Speakers/MSO 2021/1.41 Kg, 14s-dy2507TU",
+    "price": 38496,
+    "description": "14 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/81WTprMJDRL._SX425_.jpg",
+    "rating": {
+      "rate": 4,
+      "count": 250
+    }
+  },
+  {
+    "id": 2,
+    "title": "Dell Vostro 14-inch Laptop (35.56 cms) | Windows 11 and MS Office 2021 | Intel i3-1115G4 | 8GB DDR4 SDRAM and 512GB SSD | FHD Screen | Laptop for Work | 3420 - Carbon Black (D552276WIN9BE) ",
+    "price": 39990,
+    "description": "16 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/61KdboYR7XL._SX425_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+{
+    "id": 3,
+    "title": "Lenovo IdeaPad Slim 3 Intel Core i3-1115G4 11th Gen 15.6 (39.62cm) FHD Laptop (8GB/256GB SSD/Win 11/Office 2021/2 Year Warranty/3 Month Game Pass/Platinum Grey/1.7Kg), 81X800LCIN ",
+    "price": 33990,
+    "description": "10 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/51cVJdMGznL._SX425_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+{
+    "id": 4,
+    "title": "Lenovo E41-55 AMD 14-inch HD 220 Nits Antiglare Thin and Light Laptop (Athlon Silver 3050U/8GB RAM/256 SSD/DOS/Integrated AMD Graphics/Grey/1 Year Onsite/1.59 kg) ",
+    "price": 20990,
+    "description": "15 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/31-EMEvzUHL._SY300_SX300_QL70_FMwebp_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+{
+    "id": 5,
+    "title": "Lenovo V15 Intel Celeron N4500 15.6 (39.62 cm) FHD (1920x1080) Antiglare 250 Nits Thin and Light Laptop (8GB RAM/256GB SSD/Windows 11 Home/Black/1Y Onsite/1.7 kg), 82QYA00MIN ",
+    "price": 23990,
+    "description": "16 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/31uLEZHhMDL._SX300_SY300_QL70_FMwebp_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+{
+    "id": 6,
+    "title": "Lenovo E41-55 Laptop (AMD Athlon Pro 3045B/ 4GB RAM/ 1TB HDD/DOS/AMD Radeon Graphics/ 14 Inches/ 1 Year Warranty) Black ",
+    "price": 18990,
+    "description": "14 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/41zNMsk2yNL._SY300_SX300_QL70_FMwebp_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+{
+    "id": 7,
+    "title": "HP 15s,11th Gen Intel Core i3-1115G4 8GB RAM/512GB SSD 15.6-inch(39.6 cm) Micro-Edge Anti-Glare FHD Laptop/Alexa Built-in/Win 11/Intel UHD Graphics/Dual Speakers/MS Office 2021/1.69 Kg, 15s-fq2673TU ",
+    "price": 49990,
+    "description": "14 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/51CHnrWocRL._SX300_SY300_QL70_FMwebp_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+{
+    "id": 8,
+    "title": "HP 14s, 5th Gen AMD Ryzen 3-8GB RAM/512GB SSD 14 inches(35cm) Laptop, FHD IPS Micro-Edge Display/Backlit Keyboard/Alexa/Windows 11/Fast Charge/Radeon Graphics/1.46Kg/Natural Silver -14s-fq1089AU ",
+    "price": 39990,
+    "description": "12 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/71+RslJIo5L._SX425_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+{
+    "id": 9,
+    "title": "ASUS VivoBook 15 (2021), 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W ",
+    "price": 22990,
+    "description": "14 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/414057taYKL._SX300_SY300_QL70_FMwebp_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+{
+    "id": 10,
+    "title": "Dell Vostro 14-inch Laptop (35.56 cms) | Windows 11 and MS Office 2021 | Intel i3-1115G4 | 8GB DDR4 SDRAM and 512GB SSD | FHD Screen | Laptop for Work | 3420 - Carbon Black (D552276WIN9BE) ",
+    "price": 39990,
+    "description": "12 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/61KdboYR7XL._SX425_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+{
+    "id": 11,
+    "title": "Apple 2023 MacBook Pro Laptop M2 Max chip with 12‑core CPU and 38‑core GPU: 33.74 cm (16.2-inch), 32GB Unified Memory, 1TB SSD Storage. Works with iPhone/iPad; Space Grey ",
+    "price": 339990,
+    "description": "16 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/31Vy1fL1MsL._SY445_SX342_QL70_FMwebp_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+{
+    "id": 12,
+    "title": "(Renewed) DELL Latitude 5490 Core i5 7th Gen Laptop, 16 GB RAM, 512GB SSD, Intel HD Graphics, 14 inch (36.83 cms) HD Screen, Windows 11 (Upgraded), MS Office, Black, Slim ",
+    "price": 39990,
+    "description": "10 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/418cc1MvF1L._SX425_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  }
+]
+
+}
